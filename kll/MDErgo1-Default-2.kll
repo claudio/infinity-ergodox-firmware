@@ -1,0 +1,16 @@
+Author = "crossblaim (Claudio Perez Gamayo) 2015";
+Base = "Blank";
+Date = "2015-11-09";
+Generator = "KIICONF 0.2";
+KLL = "0.3c";
+Layout = "Default";
+Name = "MDErgo1";
+Version = "0.1";
+
+U"EQUALS" : flashMode();
+U"MINUS" : flashMode();
+U"I" : U"UP";
+U"J" : U"LEFT";
+U"K" : U"DOWN";
+U"L" : U"RIGHT";
+
